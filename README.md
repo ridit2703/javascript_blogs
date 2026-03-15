@@ -1,4 +1,5 @@
 # javascript_blogs
+## Blogs List
 ** 1- Understanding Variables and Data Types in JavaScript **-https://jsdatatypes00.hashnode.dev/understanding-variables-and-data-types-in-javascript
 ** 2- Mastering JavaScript Array Methods **- https://arraysinjs00.hashnode.dev/mastering-javascript-array-methods
 ** 3- Control Flow in JavaScript** - https://controlflowinjs00.hashnode.dev/control-flow-in-javascript
