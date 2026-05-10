@@ -76,6 +76,62 @@ An introduction to OOP concepts like classes, objects, and inheritance in JavaSc
 
 ---
 
+### 1️⃣1️⃣ Understanding the Spread and Rest Operators in JavaScript:
+https://spreadandrestoperators.hashnode.dev/
+
+---
+
+### 1️⃣2️⃣ Mastering Nested Arrays and Flattening Techniques:
+https://flattenarrays.hashnode.dev/mastering-nested-arrays-and-flattening-techniques
+---
+
+### 1️⃣3️⃣ A Comprehensive Guide to Callback Functions in JavaScript:
+https://callbackfunctions.hashnode.dev/a-comprehensive-guide-to-callback-functions-in-javascript
+---
+
+### 1️⃣4️⃣ Destructuring in JavaScript: Write Cleaner and Smarter Code:
+https://destructuringijs.hashnode.dev/destructuring-in-javascript-write-cleaner-and-smarter-code
+---
+
+### 1️⃣5️⃣ Synchronous vs Asynchronous JavaScript Explained Simply:
+https://jsblogs11.hashnode.dev/synchronous-vs-asynchronous-javascript-explained-simply
+---
+
+### 1️⃣6️⃣ JavaScript Map and Set Made Easy :
+https://mapandsetinjs11.hashnode.dev/javascript-map-and-set-made-easy
+---
+
+### 1️⃣7️⃣Understanding Async/Await in JavaScript:
+https://jsawait.hashnode.dev/understanding-async-await-in-javascript
+---
+
+### 1️⃣8️⃣ A Simple Guide to this in JavaScript:
+https://jsthis.hashnode.dev/a-simple-guide-to-this-in-javascript
+---
+
+### 1️⃣9️⃣ Understanding the new Keyword in JavaScript:
+https://newinjs.hashnode.dev/understanding-the-new-keyword-in-javascript
+---
+
+### 2️⃣0️⃣ JavaScript Modules: Import and Export:
+https://jsmodules11.hashnode.dev/understanding-javascript-modules-why-they-matter-and-how-to-use-them
+---
+
+### 2️⃣1️⃣ Understanding JavaScript Promises:
+https://jspromises11.hashnode.dev/understanding-javascript-promises
+---
+
+###  2️⃣2️⃣ Understanding Template Literals in JavaScript:
+https://jstemplates.hashnode.dev/understanding-template-literals-in-javascript-writing-cleaner-and-more-readable-strings
+---
+
+### 2️⃣3️⃣ Mastering String Methods in JavaScript: From Basics to Polyfills:
+https://stringpolyfillsinjs11.hashnode.dev/mastering-string-methods-in-javascript-from-basics-to-polyfills
+---
+
+### 2️⃣4️⃣ Understanding Error Handling in JavaScript:
+https://errorhandlinginjs00.hashnode.dev/understanding-error-handling-in-javascript  
+---
 ## 🚀 Goal of This Series
 The goal of this series is to build a **strong JavaScript foundation** by covering important concepts with simple explanations and examples.
 
